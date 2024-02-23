@@ -289,7 +289,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="16dp"
-                android:background="#FF9800"
+                android:background="#65D629"
                 android:text="Order Now"
 
                 android:textSize="18sp" />

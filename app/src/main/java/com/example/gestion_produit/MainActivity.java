@@ -112,7 +112,7 @@ TextView buttoncart;
     }
     private void setProductRecycler(List<ProductCategory> productCategoryList)
     {
-        productCatRecycler=findViewById(R.id.cat_recycler);
+       // productCatRecycler=findViewById(R.id.cat_recycler);
         RecyclerView.LayoutManager layoutManager=new LinearLayoutManager(this,RecyclerView.HORIZONTAL,false);
         productCatRecycler.setLayoutManager(layoutManager);
         productCatAdapter = new ProductCatAdapter(this,productCategoryList);

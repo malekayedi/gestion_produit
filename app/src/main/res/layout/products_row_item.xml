@@ -53,7 +53,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/rubik_medium"
         android:text="54$"
-        android:textColor="#d24e01"
+        android:textColor="#65D629"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="@+id/picproduit"
         app:layout_constraintEnd_toEndOf="@+id/titleTxtt"
@@ -67,7 +67,7 @@
         android:layout_marginStart="4dp"
         android:layout_marginTop="28dp"
         android:text="0"
-        android:textColor="#d24e01"
+        android:textColor="#65D629"
         android:textSize="24sp"
         app:layout_constraintStart_toEndOf="@+id/like"
         app:layout_constraintTop_toTopOf="@+id/picproduit" />

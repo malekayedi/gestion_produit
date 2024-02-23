@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:text="DT"
                 android:textAlignment="center"
-                android:textColor="#ff5e00"
+                android:textColor="#151C15"
                 android:textSize="24sp" />
 
             <ImageView
@@ -54,7 +54,7 @@
                 <ImageView
                     android:id="@+id/minusBtn"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:src="@drawable/minus" />
 
                 <TextView
@@ -95,7 +95,7 @@
         android:layout_height="0dp"
         android:layout_margin="16dp"
         android:layout_marginBottom="15dp"
-        android:background="#FF9800"
+        android:background="#24ea2c"
         android:elevation="3dp"
         android:gravity="center"
         android:text="Add To Cart"
